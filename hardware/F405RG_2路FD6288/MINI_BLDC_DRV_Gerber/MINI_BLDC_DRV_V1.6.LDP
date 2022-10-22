@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\27731\Desktop\MINI_BLDC_DRV_V1.6.PcbDoc\MINI_BLDC_DRV_V1.6.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mini_bldc_drv_v1.6-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=mini_bldc_drv_v1.6-slotholes.txt|DrillLayers=gtl,gbl
