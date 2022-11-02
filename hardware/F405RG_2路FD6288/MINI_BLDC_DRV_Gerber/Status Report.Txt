@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[MINI_BLDC_DRV_V1.6-RoundHoles.TXT]
+   Generated File[MINI_BLDC_DRV_V1.6-SlotHoles.TXT]
+   Generated File[MINI_BLDC_DRV_V1.6.DRL]
+   Generated File[MINI_BLDC_DRV_V1.6.LDP]
+   Generated File[MINI_BLDC_DRV_V1.6.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 11:17:03 On 2022/10/22

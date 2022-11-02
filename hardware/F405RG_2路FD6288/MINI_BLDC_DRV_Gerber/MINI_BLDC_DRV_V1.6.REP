@@ -1,0 +1,54 @@
+*************************************************************
+FileName = MINI_BLDC_DRV_V1.6.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : MINI_BLDC_DRV_V1.6.GD1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : MINI_BLDC_DRV_V1.6.GG1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
